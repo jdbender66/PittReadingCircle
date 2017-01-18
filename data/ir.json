@@ -1,0 +1,2408 @@
+{
+  "name": "Information Retrieval and Storage",
+  "type": "course",
+  "children": [
+    {
+      "name": "Lecture 3",
+      "type": "lecture",
+      "title": "<b>Lecture 03</b><br />Index Construction and Compression",
+      "docno": "lecture-3",
+      "id": "3",
+      "children": [
+        {
+          "name": "Chapter 4: Index construction",
+          "type": "doc",
+          "docno": "iir-2104",
+          "id": "2104",
+          "bookid": "iir",
+          "title": "Chapter 4: Index construction",
+          "spage": "104",
+          "epage": "105",
+          "links": [
+            {
+              "url": "iir/00000104.jpg"
+            },
+            {
+              "url": "iir/00000105.jpg"
+            }
+          ],
+          "children": [
+            {
+              "name": "4.1 Hardware basics",
+              "type": "doc",
+              "docno": "iir-2105",
+              "id": "2105",
+              "bookid": "iir",
+              "title": "4.1 Hardware basics",
+              "spage": "105",
+              "epage": "106",
+              "links": [
+                {
+                  "url": "iir/00000105.jpg"
+                },
+                {
+                  "url": "iir/00000106.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "4.2 Blocked sort-based indexing",
+              "type": "doc",
+              "docno": "iir-2106",
+              "id": "2106",
+              "bookid": "iir",
+              "title": "4.2 Blocked sort-based indexing",
+              "spage": "106",
+              "epage": "110",
+              "links": [
+                {
+                  "url": "iir/00000106.jpg"
+                },
+                {
+                  "url": "iir/00000107.jpg"
+                },
+                {
+                  "url": "iir/00000108.jpg"
+                },
+                {
+                  "url": "iir/00000109.jpg"
+                },
+                {
+                  "url": "iir/00000110.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "4.3 Single-pass in-memory indexing",
+              "type": "doc",
+              "docno": "iir-2107",
+              "id": "2107",
+              "bookid": "iir",
+              "title": "4.3 Single-pass in-memory indexing",
+              "spage": "110",
+              "epage": "111",
+              "links": [
+                {
+                  "url": "iir/00000110.jpg"
+                },
+                {
+                  "url": "iir/00000111.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "4.4 Distributed indexing",
+              "type": "doc",
+              "docno": "iir-2108",
+              "id": "2108",
+              "bookid": "iir",
+              "title": "4.4 Distributed indexing",
+              "spage": "111",
+              "epage": "115",
+              "links": [
+                {
+                  "url": "iir/00000111.jpg"
+                },
+                {
+                  "url": "iir/00000112.jpg"
+                },
+                {
+                  "url": "iir/00000113.jpg"
+                },
+                {
+                  "url": "iir/00000114.jpg"
+                },
+                {
+                  "url": "iir/00000115.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "4.5 Dynamic indexing",
+              "type": "doc",
+              "docno": "iir-2109",
+              "id": "2109",
+              "bookid": "iir",
+              "title": "4.5 Dynamic indexing",
+              "spage": "115",
+              "epage": "117",
+              "links": [
+                {
+                  "url": "iir/00000115.jpg"
+                },
+                {
+                  "url": "iir/00000116.jpg"
+                },
+                {
+                  "url": "iir/00000117.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "4.6 Other types of indexes",
+              "type": "doc",
+              "docno": "iir-2110",
+              "id": "2110",
+              "bookid": "iir",
+              "title": "4.6 Other types of indexes",
+              "spage": "117",
+              "epage": "120",
+              "links": [
+                {
+                  "url": "iir/00000117.jpg"
+                },
+                {
+                  "url": "iir/00000118.jpg"
+                },
+                {
+                  "url": "iir/00000119.jpg"
+                },
+                {
+                  "url": "iir/00000120.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "4.7 References and further reading",
+              "type": "doc",
+              "docno": "iir-2111",
+              "id": "2111",
+              "bookid": "iir",
+              "title": "4.7 References and further reading",
+              "spage": "120",
+              "epage": "122",
+              "links": [
+                {
+                  "url": "iir/00000120.jpg"
+                },
+                {
+                  "url": "iir/00000121.jpg"
+                },
+                {
+                  "url": "iir/00000122.jpg"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "5 Index compression",
+          "type": "doc",
+          "docno": "iir-2112",
+          "id": "2112",
+          "bookid": "iir",
+          "title": "5 Index compression",
+          "spage": "122",
+          "epage": "123",
+          "links": [
+            {
+              "url": "iir/00000122.jpg"
+            },
+            {
+              "url": "iir/00000123.jpg"
+            }
+          ],
+          "children": [
+            {
+              "name": "5.1 Statistical properties of terms in information retrieval",
+              "type": "doc",
+              "docno": "iir-2113",
+              "id": "2113",
+              "bookid": "iir",
+              "title": "5.1 Statistical properties of terms in information retrieval",
+              "spage": "123",
+              "epage": "125",
+              "links": [
+                {
+                  "url": "iir/00000123.jpg"
+                },
+                {
+                  "url": "iir/00000124.jpg"
+                },
+                {
+                  "url": "iir/00000125.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "5.1.1 Heaps’ law: Estimating the number of terms",
+                  "type": "doc",
+                  "docno": "iir-2114",
+                  "id": "2114",
+                  "bookid": "iir",
+                  "title": "5.1.1 Heaps’ law: Estimating the number of terms",
+                  "spage": "125",
+                  "epage": "126",
+                  "links": [
+                    {
+                      "url": "iir/00000125.jpg"
+                    },
+                    {
+                      "url": "iir/00000126.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "5.1.2 Zipf’s law: Modeling the distribution of terms",
+                  "type": "doc",
+                  "docno": "iir-2115",
+                  "id": "2115",
+                  "bookid": "iir",
+                  "title": "5.1.2 Zipf’s law: Modeling the distribution of terms",
+                  "spage": "126",
+                  "epage": "127",
+                  "links": [
+                    {
+                      "url": "iir/00000126.jpg"
+                    },
+                    {
+                      "url": "iir/00000127.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "5.2 Dictionary compression",
+              "type": "doc",
+              "docno": "iir-2116",
+              "id": "2116",
+              "bookid": "iir",
+              "title": "5.2 Dictionary compression",
+              "spage": "127",
+              "epage": "128",
+              "links": [
+                {
+                  "url": "iir/00000127.jpg"
+                },
+                {
+                  "url": "iir/00000128.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "5.2.1 Dictionary as a string",
+                  "type": "doc",
+                  "docno": "iir-2117",
+                  "id": "2117",
+                  "bookid": "iir",
+                  "title": "5.2.1 Dictionary as a string",
+                  "spage": "128",
+                  "epage": "129",
+                  "links": [
+                    {
+                      "url": "iir/00000128.jpg"
+                    },
+                    {
+                      "url": "iir/00000129.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "5.2.2 Blocked storage",
+                  "type": "doc",
+                  "docno": "iir-2118",
+                  "id": "2118",
+                  "bookid": "iir",
+                  "title": "5.2.2 Blocked storage",
+                  "spage": "129",
+                  "epage": "132",
+                  "links": [
+                    {
+                      "url": "iir/00000129.jpg"
+                    },
+                    {
+                      "url": "iir/00000130.jpg"
+                    },
+                    {
+                      "url": "iir/00000131.jpg"
+                    },
+                    {
+                      "url": "iir/00000132.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "5.3 Postings file compression",
+              "type": "doc",
+              "docno": "iir-2119",
+              "id": "2119",
+              "bookid": "iir",
+              "title": "5.3 Postings file compression",
+              "spage": "132",
+              "epage": "133",
+              "links": [
+                {
+                  "url": "iir/00000132.jpg"
+                },
+                {
+                  "url": "iir/00000133.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "5.3.1 Variable byte codes",
+                  "type": "doc",
+                  "docno": "iir-2120",
+                  "id": "2120",
+                  "bookid": "iir",
+                  "title": "5.3.1 Variable byte codes",
+                  "spage": "133",
+                  "epage": "135",
+                  "links": [
+                    {
+                      "url": "iir/00000133.jpg"
+                    },
+                    {
+                      "url": "iir/00000135.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "5.3.2 Gamma codes",
+                  "type": "doc",
+                  "docno": "iir-2121",
+                  "id": "2121",
+                  "bookid": "iir",
+                  "title": "5.3.2 Gamma codes",
+                  "spage": "135",
+                  "epage": "142",
+                  "links": [
+                    {
+                      "url": "iir/00000135.jpg"
+                    },
+                    {
+                      "url": "iir/00000136.jpg"
+                    },
+                    {
+                      "url": "iir/00000137.jpg"
+                    },
+                    {
+                      "url": "iir/00000138.jpg"
+                    },
+                    {
+                      "url": "iir/00000139.jpg"
+                    },
+                    {
+                      "url": "iir/00000140.jpg"
+                    },
+                    {
+                      "url": "iir/00000141.jpg"
+                    },
+                    {
+                      "url": "iir/00000142.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "5.4 References and further reading",
+              "type": "doc",
+              "docno": "iir-2122",
+              "id": "2122",
+              "bookid": "iir",
+              "title": "5.4 References and further reading",
+              "spage": "142",
+              "epage": "145",
+              "links": [
+                {
+                  "url": "iir/00000142.jpg"
+                },
+                {
+                  "url": "iir/00000143.jpg"
+                },
+                {
+                  "url": "iir/00000144.jpg"
+                },
+                {
+                  "url": "iir/00000145.jpg"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "7.4 Text Compression",
+          "type": "doc",
+          "docno": "mir-2123",
+          "id": "2123",
+          "bookid": "mir",
+          "title": "7.4 Text Compression",
+          "spage": "185",
+          "epage": "185",
+          "links": [
+            {
+              "url": "mir/00000173.jpg"
+            }
+          ],
+          "children": [
+            {
+              "name": "7.4.1 Motivation",
+              "type": "doc",
+              "docno": "mir-2124",
+              "id": "2124",
+              "bookid": "mir",
+              "title": "7.4.1 Motivation",
+              "spage": "185",
+              "epage": "187",
+              "links": [
+                {
+                  "url": "mir/00000173.jpg"
+                },
+                {
+                  "url": "mir/00000174.jpg"
+                },
+                {
+                  "url": "mir/00000175.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "7.4.2 Basic Concepts",
+              "type": "doc",
+              "docno": "mir-2125",
+              "id": "2125",
+              "bookid": "mir",
+              "title": "7.4.2 Basic Concepts",
+              "spage": "187",
+              "epage": "188",
+              "links": [
+                {
+                  "url": "mir/00000175.jpg"
+                },
+                {
+                  "url": "mir/00000176.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "7.4.3 Statistical Methods",
+              "type": "doc",
+              "docno": "mir-2126",
+              "id": "2126",
+              "bookid": "mir",
+              "title": "7.4.3 Statistical Methods",
+              "spage": "188",
+              "epage": "195",
+              "links": [
+                {
+                  "url": "mir/00000176.jpg"
+                },
+                {
+                  "url": "mir/00000177.jpg"
+                },
+                {
+                  "url": "mir/00000178.jpg"
+                },
+                {
+                  "url": "mir/00000179.jpg"
+                },
+                {
+                  "url": "mir/00000180.jpg"
+                },
+                {
+                  "url": "mir/00000181.jpg"
+                },
+                {
+                  "url": "mir/00000182.jpg"
+                },
+                {
+                  "url": "mir/00000183.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "7.4.4 Dictionary Methods",
+              "type": "doc",
+              "docno": "mir-2127",
+              "id": "2127",
+              "bookid": "mir",
+              "title": "7.4.4 Dictionary Methods",
+              "spage": "195",
+              "epage": "196",
+              "links": [
+                {
+                  "url": "mir/00000183.jpg"
+                },
+                {
+                  "url": "mir/00000184.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "7.4.5 Inverted File Compression",
+              "type": "doc",
+              "docno": "mir-2128",
+              "id": "2128",
+              "bookid": "mir",
+              "title": "7.4.5 Inverted File Compression",
+              "spage": "196",
+              "epage": "198",
+              "links": [
+                {
+                  "url": "mir/00000184.jpg"
+                },
+                {
+                  "url": "mir/00000185.jpg"
+                },
+                {
+                  "url": "mir/00000186.jpg"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "8 Indexing and Searching",
+          "type": "doc",
+          "docno": "mir-2129",
+          "id": "2129",
+          "bookid": "mir",
+          "title": "8 Indexing and Searching",
+          "spage": "203",
+          "epage": "203",
+          "links": [
+            {
+              "url": "mir/00000191.jpg"
+            }
+          ],
+          "children": [
+            {
+              "name": "8.1 Introduction",
+              "type": "doc",
+              "docno": "mir-2130",
+              "id": "2130",
+              "bookid": "mir",
+              "title": "8.1 Introduction",
+              "spage": "203",
+              "epage": "204",
+              "links": [
+                {
+                  "url": "mir/00000191.jpg"
+                },
+                {
+                  "url": "mir/00000192.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "8.2 Inverted Files",
+              "type": "doc",
+              "docno": "mir-2131",
+              "id": "2131",
+              "bookid": "mir",
+              "title": "8.2 Inverted Files",
+              "spage": "204",
+              "epage": "207",
+              "links": [
+                {
+                  "url": "mir/00000192.jpg"
+                },
+                {
+                  "url": "mir/00000193.jpg"
+                },
+                {
+                  "url": "mir/00000194.jpg"
+                },
+                {
+                  "url": "mir/00000195.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "8.2.1 Searching",
+                  "type": "doc",
+                  "docno": "mir-2132",
+                  "id": "2132",
+                  "bookid": "mir",
+                  "title": "8.2.1 Searching",
+                  "spage": "207",
+                  "epage": "208",
+                  "links": [
+                    {
+                      "url": "mir/00000195.jpg"
+                    },
+                    {
+                      "url": "mir/00000196.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "8.2.2 Construction",
+                  "type": "doc",
+                  "docno": "mir-2133",
+                  "id": "2133",
+                  "bookid": "mir",
+                  "title": "8.2.2 Construction",
+                  "spage": "208",
+                  "epage": "211",
+                  "links": [
+                    {
+                      "url": "mir/00000196.jpg"
+                    },
+                    {
+                      "url": "mir/00000197.jpg"
+                    },
+                    {
+                      "url": "mir/00000198.jpg"
+                    },
+                    {
+                      "url": "mir/00000199.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "8.3 Other Indices for Text",
+              "type": "doc",
+              "docno": "mir-2134",
+              "id": "2134",
+              "bookid": "mir",
+              "title": "8.3 Other Indices for Text",
+              "spage": "211",
+              "epage": "211",
+              "links": [
+                {
+                  "url": "mir/00000199.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "8.3.1 Suffix Trees and Suffix Arrays",
+                  "type": "doc",
+                  "docno": "mir-2135",
+                  "id": "2135",
+                  "bookid": "mir",
+                  "title": "8.3.1 Suffix Trees and Suffix Arrays",
+                  "spage": "211",
+                  "epage": "217",
+                  "links": [
+                    {
+                      "url": "mir/00000199.jpg"
+                    },
+                    {
+                      "url": "mir/00000200.jpg"
+                    },
+                    {
+                      "url": "mir/00000201.jpg"
+                    },
+                    {
+                      "url": "mir/00000202.jpg"
+                    },
+                    {
+                      "url": "mir/00000203.jpg"
+                    },
+                    {
+                      "url": "mir/00000204.jpg"
+                    },
+                    {
+                      "url": "mir/00000205.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "8.3.2 Signature Files",
+                  "type": "doc",
+                  "docno": "mir-2136",
+                  "id": "2136",
+                  "bookid": "mir",
+                  "title": "8.3.2 Signature Files",
+                  "spage": "217",
+                  "epage": "219",
+                  "links": [
+                    {
+                      "url": "mir/00000205.jpg"
+                    },
+                    {
+                      "url": "mir/00000206.jpg"
+                    },
+                    {
+                      "url": "mir/00000207.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "8.4 Boolean Queries",
+              "type": "doc",
+              "docno": "mir-2137",
+              "id": "2137",
+              "bookid": "mir",
+              "title": "8.4 Boolean Queries",
+              "spage": "219",
+              "epage": "221",
+              "links": [
+                {
+                  "url": "mir/00000207.jpg"
+                },
+                {
+                  "url": "mir/00000208.jpg"
+                },
+                {
+                  "url": "mir/00000209.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "8.5 Sequential Searching",
+              "type": "doc",
+              "docno": "mir-2138",
+              "id": "2138",
+              "bookid": "mir",
+              "title": "8.5 Sequential Searching",
+              "spage": "221",
+              "epage": "221",
+              "links": [
+                {
+                  "url": "mir/00000209.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "8.5.1 Brute Force",
+                  "type": "doc",
+                  "docno": "mir-2139",
+                  "id": "2139",
+                  "bookid": "mir",
+                  "title": "8.5.1 Brute Force",
+                  "spage": "221",
+                  "epage": "222",
+                  "links": [
+                    {
+                      "url": "mir/00000209.jpg"
+                    },
+                    {
+                      "url": "mir/00000210.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "8.5.2 Knuth-Morris-Pratt",
+                  "type": "doc",
+                  "docno": "mir-2140",
+                  "id": "2140",
+                  "bookid": "mir",
+                  "title": "8.5.2 Knuth-Morris-Pratt",
+                  "spage": "222",
+                  "epage": "223",
+                  "links": [
+                    {
+                      "url": "mir/00000210.jpg"
+                    },
+                    {
+                      "url": "mir/00000211.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "8.5.3 Boyer-Moore Family",
+                  "type": "doc",
+                  "docno": "mir-2141",
+                  "id": "2141",
+                  "bookid": "mir",
+                  "title": "8.5.3 Boyer-Moore Family",
+                  "spage": "223",
+                  "epage": "224",
+                  "links": [
+                    {
+                      "url": "mir/00000211.jpg"
+                    },
+                    {
+                      "url": "mir/00000212.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "8.5.4 Shift-Or",
+                  "type": "doc",
+                  "docno": "mir-2142",
+                  "id": "2142",
+                  "bookid": "mir",
+                  "title": "8.5.4 Shift-Or",
+                  "spage": "224",
+                  "epage": "225",
+                  "links": [
+                    {
+                      "url": "mir/00000212.jpg"
+                    },
+                    {
+                      "url": "mir/00000213.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "8.5.5 Suffix Automaton",
+                  "type": "doc",
+                  "docno": "mir-2143",
+                  "id": "2143",
+                  "bookid": "mir",
+                  "title": "8.5.5 Suffix Automaton",
+                  "spage": "225",
+                  "epage": "226",
+                  "links": [
+                    {
+                      "url": "mir/00000213.jpg"
+                    },
+                    {
+                      "url": "mir/00000214.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "8.5.6 Practical Comparison",
+                  "type": "doc",
+                  "docno": "mir-2144",
+                  "id": "2144",
+                  "bookid": "mir",
+                  "title": "8.5.6 Practical Comparison",
+                  "spage": "226",
+                  "epage": "227",
+                  "links": [
+                    {
+                      "url": "mir/00000214.jpg"
+                    },
+                    {
+                      "url": "mir/00000215.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "8.5.7 Phrases and Proximity",
+                  "type": "doc",
+                  "docno": "mir-2145",
+                  "id": "2145",
+                  "bookid": "mir",
+                  "title": "8.5.7 Phrases and Proximity",
+                  "spage": "227",
+                  "epage": "227",
+                  "links": [
+                    {
+                      "url": "mir/00000215.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "8.6 Pattern Matching",
+              "type": "doc",
+              "docno": "mir-2146",
+              "id": "2146",
+              "bookid": "mir",
+              "title": "8.6 Pattern Matching",
+              "spage": "227",
+              "epage": "228",
+              "links": [
+                {
+                  "url": "mir/00000215.jpg"
+                },
+                {
+                  "url": "mir/00000216.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "8.6.1 String Matching Allowing Errors",
+                  "type": "doc",
+                  "docno": "mir-2147",
+                  "id": "2147",
+                  "bookid": "mir",
+                  "title": "8.6.1 String Matching Allowing Errors",
+                  "spage": "228",
+                  "epage": "231",
+                  "links": [
+                    {
+                      "url": "mir/00000216.jpg"
+                    },
+                    {
+                      "url": "mir/00000217.jpg"
+                    },
+                    {
+                      "url": "mir/00000218.jpg"
+                    },
+                    {
+                      "url": "mir/00000219.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "8.6.2 Regular Expressions and Extended Patterns",
+                  "type": "doc",
+                  "docno": "mir-2148",
+                  "id": "2148",
+                  "bookid": "mir",
+                  "title": "8.6.2 Regular Expressions and Extended Patterns",
+                  "spage": "231",
+                  "epage": "232",
+                  "links": [
+                    {
+                      "url": "mir/00000219.jpg"
+                    },
+                    {
+                      "url": "mir/00000220.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "8.6.3 Pattern Matching Using Indicies",
+                  "type": "doc",
+                  "docno": "mir-2149",
+                  "id": "2149",
+                  "bookid": "mir",
+                  "title": "8.6.3 Pattern Matching Using Indicies",
+                  "spage": "232",
+                  "epage": "234",
+                  "links": [
+                    {
+                      "url": "mir/00000220.jpg"
+                    },
+                    {
+                      "url": "mir/00000221.jpg"
+                    },
+                    {
+                      "url": "mir/00000222.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "8.7 Structural Queries",
+              "type": "doc",
+              "docno": "mir-2150",
+              "id": "2150",
+              "bookid": "mir",
+              "title": "8.7 Structural Queries",
+              "spage": "234",
+              "epage": "234",
+              "links": [
+                {
+                  "url": "mir/00000222.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "8.8 Compression",
+              "type": "doc",
+              "docno": "mir-2151",
+              "id": "2151",
+              "bookid": "mir",
+              "title": "8.8 Compression",
+              "spage": "234",
+              "epage": "235",
+              "links": [
+                {
+                  "url": "mir/00000222.jpg"
+                },
+                {
+                  "url": "mir/00000223.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "8.8.1 Sequential Searching",
+                  "type": "doc",
+                  "docno": "mir-2152",
+                  "id": "2152",
+                  "bookid": "mir",
+                  "title": "8.8.1 Sequential Searching",
+                  "spage": "235",
+                  "epage": "236",
+                  "links": [
+                    {
+                      "url": "mir/00000223.jpg"
+                    },
+                    {
+                      "url": "mir/00000224.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "8.8.2 Compressed Indicies",
+                  "type": "doc",
+                  "docno": "mir-2153",
+                  "id": "2153",
+                  "bookid": "mir",
+                  "title": "8.8.2 Compressed Indicies",
+                  "spage": "236",
+                  "epage": "238",
+                  "links": [
+                    {
+                      "url": "mir/00000224.jpg"
+                    },
+                    {
+                      "url": "mir/00000225.jpg"
+                    },
+                    {
+                      "url": "mir/00000226.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "8.9 Trends and Research Issues",
+              "type": "doc",
+              "docno": "mir-2154",
+              "id": "2154",
+              "bookid": "mir",
+              "title": "8.9 Trends and Research Issues",
+              "spage": "238",
+              "epage": "239",
+              "links": [
+                {
+                  "url": "mir/00000226.jpg"
+                },
+                {
+                  "url": "mir/00000227.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "8.10 Bibliographic Discussion",
+              "type": "doc",
+              "docno": "mir-2155",
+              "id": "2155",
+              "bookid": "mir",
+              "title": "8.10 Bibliographic Discussion",
+              "spage": "239",
+              "epage": "240",
+              "links": [
+                {
+                  "url": "mir/00000227.jpg"
+                },
+                {
+                  "url": "mir/00000228.jpg"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lecture 4",
+      "type": "lecture",
+      "title": "<b>Lecture 04</b><br />Matching model: Booelan and Vector Space",
+      "docno": "lecture-4",
+      "id": "2156",
+      "children": [
+        {
+          "name": "1 Boolean Retrieval",
+          "type": "doc",
+          "docno": "iir-2156",
+          "id": "2156",
+          "bookid": "iir",
+          "title": "1 Boolean Retrieval",
+          "spage": "10",
+          "epage": "10",
+          "links": [
+            {
+              "url": "mir/00000047.jpg"
+            }
+          ],
+          "children": [
+            {
+              "name": "1.3 Processing Boolean queries",
+              "type": "doc",
+              "docno": "iir-2157",
+              "id": "2157",
+              "bookid": "iir",
+              "title": "1.3 Processing Boolean queries",
+              "spage": "10",
+              "epage": "14",
+              "links": [
+                {
+                  "url": "mir/00000047.jpg"
+                },
+                {
+                  "url": "mir/000000048.jpg"
+                },
+                {
+                  "url": "mir/0000000049.jpg"
+                },
+                {
+                  "url": "mir/00000000050.jpg"
+                },
+                {
+                  "url": "mir/000000000051.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "1.4 The extended Boolean model versus ranked retrieval",
+              "type": "doc",
+              "docno": "iir-2158",
+              "id": "2158",
+              "bookid": "iir",
+              "title": "1.4 The extended Boolean model versus ranked retrieval",
+              "spage": "14",
+              "epage": "17",
+              "links": [
+                {
+                  "url": "mir/00000051.jpg"
+                },
+                {
+                  "url": "mir/000000052.jpg"
+                },
+                {
+                  "url": "mir/0000000053.jpg"
+                },
+                {
+                  "url": "mir/00000000054.jpg"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "6 Scoring, term weighting and the vector space model",
+          "type": "doc",
+          "docno": "iir-2159",
+          "id": "2159",
+          "bookid": "iir",
+          "title": "6 Scoring, term weighting and the vector space model",
+          "spage": "146",
+          "epage": "147",
+          "links": [
+            {
+              "url": "mir/00000146.jpg"
+            },
+            {
+              "url": "mir/00000147.jpg"
+            }
+          ],
+          "children": [
+            {
+              "name": "6.1 Parametric and zone indexes",
+              "type": "doc",
+              "docno": "iir-2160",
+              "id": "2160",
+              "bookid": "iir",
+              "title": "6.1 Parametric and zone indexes",
+              "spage": "147",
+              "epage": "149",
+              "links": [
+                {
+                  "url": "mir/00000147.jpg"
+                },
+                {
+                  "url": "mir/00000148.jpg"
+                },
+                {
+                  "url": "mir/00000149.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "6.1.1 Weighted zone scoring",
+                  "type": "doc",
+                  "docno": "iir-2161",
+                  "id": "2161",
+                  "bookid": "iir",
+                  "title": "6.1.1 Weighted zone scoring",
+                  "spage": "149",
+                  "epage": "150",
+                  "links": [
+                    {
+                      "url": "mir/00000149.jpg"
+                    },
+                    {
+                      "url": "mir/00000150.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "6.1.2 Learning weights",
+                  "type": "doc",
+                  "docno": "iir-2162",
+                  "id": "2162",
+                  "bookid": "iir",
+                  "title": "6.1.2 Learning weights",
+                  "spage": "150",
+                  "epage": "152",
+                  "links": [
+                    {
+                      "url": "mir/00000150.jpg"
+                    },
+                    {
+                      "url": "mir/00000151.jpg"
+                    },
+                    {
+                      "url": "mir/00000152.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "6.1.3 The optimal weight",
+                  "type": "doc",
+                  "docno": "iir-2163",
+                  "id": "2163",
+                  "bookid": "iir",
+                  "title": "6.1.3 The optimal weight",
+                  "spage": "152",
+                  "epage": "154",
+                  "links": [
+                    {
+                      "url": "mir/00000152.jpg"
+                    },
+                    {
+                      "url": "mir/00000153.jpg"
+                    },
+                    {
+                      "url": "mir/00000154.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "6.2 Term frequency and weighting",
+              "type": "doc",
+              "docno": "iir-2164",
+              "id": "2164",
+              "bookid": "iir",
+              "title": "6.2 Term frequency and weighting",
+              "spage": "154",
+              "epage": "154",
+              "links": [
+                {
+                  "url": "mir/00000154.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "6.2.1 Inverse document frequency",
+                  "type": "doc",
+                  "docno": "iir-2165",
+                  "id": "2165",
+                  "bookid": "iir",
+                  "title": "6.2.1 Inverse document frequency",
+                  "spage": "154",
+                  "epage": "155",
+                  "links": [
+                    {
+                      "url": "mir/00000154.jpg"
+                    },
+                    {
+                      "url": "mir/00000155.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "6.2.2 Tf-idf weighting",
+                  "type": "doc",
+                  "docno": "iir-2166",
+                  "id": "2166",
+                  "bookid": "iir",
+                  "title": "6.2.2 Tf-idf weighting",
+                  "spage": "155",
+                  "epage": "157",
+                  "links": [
+                    {
+                      "url": "mir/00000155.jpg"
+                    },
+                    {
+                      "url": "mir/00000156.jpg"
+                    },
+                    {
+                      "url": "mir/00000157.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "6.3 The vector space model for scoring",
+              "type": "doc",
+              "docno": "iir-2167",
+              "id": "2167",
+              "bookid": "iir",
+              "title": "6.3 The vector space model for scoring",
+              "spage": "157",
+              "epage": "157",
+              "links": [
+                {
+                  "url": "mir/00000157.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "6.3.1 Dot products",
+                  "type": "doc",
+                  "docno": "iir-2168",
+                  "id": "2168",
+                  "bookid": "iir",
+                  "title": "6.3.1 Dot products",
+                  "spage": "157",
+                  "epage": "160",
+                  "links": [
+                    {
+                      "url": "mir/00000157.jpg"
+                    },
+                    {
+                      "url": "mir/00000158.jpg"
+                    },
+                    {
+                      "url": "mir/00000159.jpg"
+                    },
+                    {
+                      "url": "mir/00000160.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "6.3.2 Queries as vectors",
+                  "type": "doc",
+                  "docno": "iir-2169",
+                  "id": "2169",
+                  "bookid": "iir",
+                  "title": "6.3.2 Queries as vectors",
+                  "spage": "160",
+                  "epage": "161",
+                  "links": [
+                    {
+                      "url": "mir/00000160.jpg"
+                    },
+                    {
+                      "url": "mir/00000161.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "6.3.3 Computing vector scores",
+                  "type": "doc",
+                  "docno": "iir-2170",
+                  "id": "2170",
+                  "bookid": "iir",
+                  "title": "6.3.3 Computing vector scores",
+                  "spage": "161",
+                  "epage": "163",
+                  "links": [
+                    {
+                      "url": "mir/00000161.jpg"
+                    },
+                    {
+                      "url": "mir/00000162.jpg"
+                    },
+                    {
+                      "url": "mir/00000163.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "6.4 Variant tf-idf functions",
+              "type": "doc",
+              "docno": "iir-2171",
+              "id": "2171",
+              "bookid": "iir",
+              "title": "6.4 Variant tf-idf functions",
+              "spage": "163",
+              "epage": "163",
+              "links": [
+                {
+                  "url": "mir/00000163.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "6.4.1 Sublinear tf scaling",
+                  "type": "doc",
+                  "docno": "iir-2172",
+                  "id": "2172",
+                  "bookid": "iir",
+                  "title": "6.4.1 Sublinear tf scaling",
+                  "spage": "163",
+                  "epage": "164",
+                  "links": [
+                    {
+                      "url": "mir/00000163.jpg"
+                    },
+                    {
+                      "url": "mir/00000164.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "6.4.2 Maximum tf normalization",
+                  "type": "doc",
+                  "docno": "iir-2173",
+                  "id": "2173",
+                  "bookid": "iir",
+                  "title": "6.4.2 Maximum tf normalization",
+                  "spage": "164",
+                  "epage": "165",
+                  "links": [
+                    {
+                      "url": "mir/00000164.jpg"
+                    },
+                    {
+                      "url": "mir/00000165.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "6.4.3 Document and query weighting schemes",
+                  "type": "doc",
+                  "docno": "iir-2174",
+                  "id": "2174",
+                  "bookid": "iir",
+                  "title": "6.4.3 Document and query weighting schemes",
+                  "spage": "165",
+                  "epage": "166",
+                  "links": [
+                    {
+                      "url": "mir/00000165.jpg"
+                    },
+                    {
+                      "url": "mir/00000166.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "6.4.4 Pivoted normalized document length",
+                  "type": "doc",
+                  "docno": "iir-2175",
+                  "id": "2175",
+                  "bookid": "iir",
+                  "title": "6.4.4 Pivoted normalized document length",
+                  "spage": "166",
+                  "epage": "170",
+                  "links": [
+                    {
+                      "url": "mir/00000166.jpg"
+                    },
+                    {
+                      "url": "mir/00000167.jpg"
+                    },
+                    {
+                      "url": "mir/00000168.jpg"
+                    },
+                    {
+                      "url": "mir/00000169.jpg"
+                    },
+                    {
+                      "url": "mir/00000170.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "6.5 References and further reading",
+              "type": "doc",
+              "docno": "iir-2176",
+              "id": "2176",
+              "bookid": "iir",
+              "title": "6.5 References and further reading",
+              "spage": "170",
+              "epage": "170",
+              "links": [
+                {
+                  "url": "mir/00000170.jpg"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lecture 5",
+      "type": "lecture",
+      "title": "<b>Lecture 05</b><br />Matching model: Probabilistic and Language Model",
+      "docno": "lecture-5",
+      "id": "3",
+      "children": [
+        {
+          "name": "12 Language models for information retrieval",
+          "type": "doc",
+          "docno": "iir-2177",
+          "id": "2177",
+          "bookid": "iir",
+          "title": "12 Language models for information retrieval",
+          "spage": "274",
+          "epage": "274",
+          "links": [
+            {
+              "url": "iir/00000274.jpg"
+            }
+          ],
+          "children": [
+            {
+              "name": "12.1 Language models",
+              "type": "doc",
+              "docno": "iir-2178",
+              "id": "2178",
+              "bookid": "iir",
+              "title": "12.1 Language models",
+              "spage": "274",
+              "epage": "274",
+              "links": [
+                {
+                  "url": "iir/00000274.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "12.1.1 Finite automata and language models",
+                  "type": "doc",
+                  "docno": "iir-2179",
+                  "id": "2179",
+                  "bookid": "iir",
+                  "title": "12.1.1 Finite automata and language models",
+                  "spage": "274",
+                  "epage": "277",
+                  "links": [
+                    {
+                      "url": "iir/00000274.jpg"
+                    },
+                    {
+                      "url": "iir/00000275.jpg"
+                    },
+                    {
+                      "url": "iir/00000276.jpg"
+                    },
+                    {
+                      "url": "iir/00000277.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "12.1.2 Types of language models",
+                  "type": "doc",
+                  "docno": "iir-2180",
+                  "id": "2180",
+                  "bookid": "iir",
+                  "title": "12.1.2 Types of language models",
+                  "spage": "277",
+                  "epage": "278",
+                  "links": [
+                    {
+                      "url": "iir/00000277.jpg"
+                    },
+                    {
+                      "url": "iir/00000278.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "12.1.3 Multinomial distributions over words",
+                  "type": "doc",
+                  "docno": "iir-2181",
+                  "id": "2181",
+                  "bookid": "iir",
+                  "title": "12.1.3 Multinomial distributions over words",
+                  "spage": "278",
+                  "epage": "279",
+                  "links": [
+                    {
+                      "url": "iir/00000278.jpg"
+                    },
+                    {
+                      "url": "iir/00000279.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "12.2 The query likelihood model",
+              "type": "doc",
+              "docno": "iir-2182",
+              "id": "2182",
+              "bookid": "iir",
+              "title": "12.2 The query likelihood model",
+              "spage": "279",
+              "epage": "279",
+              "links": [
+                {
+                  "url": "iir/00000279.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "12.2.1 Using query likelihood language models in IR",
+                  "type": "doc",
+                  "docno": "iir-2183",
+                  "id": "2183",
+                  "bookid": "iir",
+                  "title": "12.2.1 Using query likelihood language models in IR",
+                  "spage": "279",
+                  "epage": "280",
+                  "links": [
+                    {
+                      "url": "iir/00000279.jpg"
+                    },
+                    {
+                      "url": "iir/00000280.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "12.2.2 Estimating the query generation probability",
+                  "type": "doc",
+                  "docno": "iir-2184",
+                  "id": "2184",
+                  "bookid": "iir",
+                  "title": "12.2.2 Estimating the query generation probability",
+                  "spage": "280",
+                  "epage": "283",
+                  "links": [
+                    {
+                      "url": "iir/00000280.jpg"
+                    },
+                    {
+                      "url": "iir/00000281.jpg"
+                    },
+                    {
+                      "url": "iir/00000282.jpg"
+                    },
+                    {
+                      "url": "iir/00000283.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "12.2.3 Ponte and Croft’s Experiments",
+                  "type": "doc",
+                  "docno": "iir-2185",
+                  "id": "2185",
+                  "bookid": "iir",
+                  "title": "12.2.3 Ponte and Croft’s Experiments",
+                  "spage": "283",
+                  "epage": "285",
+                  "links": [
+                    {
+                      "url": "iir/00000283.jpg"
+                    },
+                    {
+                      "url": "iir/00000284.jpg"
+                    },
+                    {
+                      "url": "iir/00000285.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "12.3 Language modeling versus other approaches in IR",
+              "type": "doc",
+              "docno": "iir-2186",
+              "id": "2186",
+              "bookid": "iir",
+              "title": "12.3 Language modeling versus other approaches in IR",
+              "spage": "285",
+              "epage": "287",
+              "links": [
+                {
+                  "url": "iir/00000285.jpg"
+                },
+                {
+                  "url": "iir/00000286.jpg"
+                },
+                {
+                  "url": "iir/00000287.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "12.4 Extended language modeling approaches",
+              "type": "doc",
+              "docno": "iir-2187",
+              "id": "2187",
+              "bookid": "iir",
+              "title": "12.4 Extended language modeling approaches",
+              "spage": "287",
+              "epage": "289",
+              "links": [
+                {
+                  "url": "iir/00000287.jpg"
+                },
+                {
+                  "url": "iir/00000288.jpg"
+                },
+                {
+                  "url": "iir/00000289.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "12.5 References and further reading",
+              "type": "doc",
+              "docno": "iir-2188",
+              "id": "2188",
+              "bookid": "iir",
+              "title": "12.5 References and further reading",
+              "spage": "289",
+              "epage": "289",
+              "links": [
+                {
+                  "url": "iir/00000289.jpg"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lecture 6",
+      "type": "lecture",
+      "title": "<b>Lecture 06</b><br />Evaluation and Relevance Feedback",
+      "docno": "lecture-5",
+      "id": "3",
+      "children": [
+        {
+          "name": "8 Evaluation in information retrieval",
+          "type": "doc",
+          "docno": "iir-2189",
+          "id": "2189",
+          "bookid": "iir",
+          "title": "8 Evaluation in information retrieval",
+          "spage": "188",
+          "epage": "189",
+          "links": [
+            {
+              "url": "iir/00000188.jpg"
+            },
+            {
+              "url": "iir/00000189.jpg"
+            }
+          ],
+          "children": [
+            {
+              "name": "8.1 Information retrieval system evaluation",
+              "type": "doc",
+              "docno": "iir-2190",
+              "id": "2190",
+              "bookid": "iir",
+              "title": "8.1 Information retrieval system evaluation",
+              "spage": "189",
+              "epage": "190",
+              "links": [
+                {
+                  "url": "iir/00000189.jpg"
+                },
+                {
+                  "url": "iir/00000190.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "8.2 Standard test collections",
+              "type": "doc",
+              "docno": "iir-2191",
+              "id": "2191",
+              "bookid": "iir",
+              "title": "8.2 Standard test collections",
+              "spage": "190",
+              "epage": "191",
+              "links": [
+                {
+                  "url": "iir/00000190.jpg"
+                },
+                {
+                  "url": "iir/00000191.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "8.3 Evaluation of unranked retrieval sets",
+              "type": "doc",
+              "docno": "iir-2192",
+              "id": "2192",
+              "bookid": "iir",
+              "title": "8.3 Evaluation of unranked retrieval sets",
+              "spage": "191",
+              "epage": "195",
+              "links": [
+                {
+                  "url": "iir/00000191.jpg"
+                },
+                {
+                  "url": "iir/00000192.jpg"
+                },
+                {
+                  "url": "iir/00000193.jpg"
+                },
+                {
+                  "url": "iir/00000194.jpg"
+                },
+                {
+                  "url": "iir/00000195.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "8.4 Evaluation of ranked retrieval results",
+              "type": "doc",
+              "docno": "iir-2193",
+              "id": "2193",
+              "bookid": "iir",
+              "title": "8.4 Evaluation of ranked retrieval results",
+              "spage": "195",
+              "epage": "201",
+              "links": [
+                {
+                  "url": "iir/00000195.jpg"
+                },
+                {
+                  "url": "iir/00000196.jpg"
+                },
+                {
+                  "url": "iir/00000197.jpg"
+                },
+                {
+                  "url": "iir/00000198.jpg"
+                },
+                {
+                  "url": "iir/00000199.jpg"
+                },
+                {
+                  "url": "iir/00000200.jpg"
+                },
+                {
+                  "url": "iir/00000201.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "8.5 Assessing relevance",
+              "type": "doc",
+              "docno": "iir-2194",
+              "id": "2194",
+              "bookid": "iir",
+              "title": "8.5 Assessing relevance",
+              "spage": "201",
+              "epage": "203",
+              "links": [
+                {
+                  "url": "iir/00000201.jpg"
+                },
+                {
+                  "url": "iir/00000202.jpg"
+                },
+                {
+                  "url": "iir/00000203.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "8.5.1 Critiques and justifications of the concept of relevance",
+                  "type": "doc",
+                  "docno": "iir-2195",
+                  "id": "2195",
+                  "bookid": "iir",
+                  "title": "8.5.1 Critiques and justifications of the concept of relevance",
+                  "spage": "203",
+                  "epage": "205",
+                  "links": [
+                    {
+                      "url": "iir/00000203.jpg"
+                    },
+                    {
+                      "url": "iir/00000204.jpg"
+                    },
+                    {
+                      "url": "iir/00000205.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "8.6 A broader perspective: System quality and user utility",
+              "type": "doc",
+              "docno": "iir-2196",
+              "id": "2196",
+              "bookid": "iir",
+              "title": "8.6 A broader perspective: System quality and user utility",
+              "spage": "205",
+              "epage": "205",
+              "links": [
+                {
+                  "url": "iir/00000205.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "8.6.1 System issues",
+                  "type": "doc",
+                  "docno": "iir-2197",
+                  "id": "2197",
+                  "bookid": "iir",
+                  "title": "8.6.1 System issues",
+                  "spage": "205",
+                  "epage": "206",
+                  "links": [
+                    {
+                      "url": "iir/00000205.jpg"
+                    },
+                    {
+                      "url": "iir/00000206.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "8.6.2 User utility",
+                  "type": "doc",
+                  "docno": "iir-2198",
+                  "id": "2198",
+                  "bookid": "iir",
+                  "title": "8.6.2 User utility",
+                  "spage": "206",
+                  "epage": "207",
+                  "links": [
+                    {
+                      "url": "iir/00000206.jpg"
+                    },
+                    {
+                      "url": "iir/00000207.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "8.6.3 Refining a deployed system",
+                  "type": "doc",
+                  "docno": "iir-2199",
+                  "id": "2199",
+                  "bookid": "iir",
+                  "title": "8.6.3 Refining a deployed system",
+                  "spage": "207",
+                  "epage": "207",
+                  "links": [
+                    {
+                      "url": "iir/00000207.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "8.7 Results snippets",
+              "type": "doc",
+              "docno": "iir-2200",
+              "id": "2200",
+              "bookid": "iir",
+              "title": "8.7 Results snippets",
+              "spage": "207",
+              "epage": "210",
+              "links": [
+                {
+                  "url": "iir/00000207.jpg"
+                },
+                {
+                  "url": "iir/00000208.jpg"
+                },
+                {
+                  "url": "iir/00000209.jpg"
+                },
+                {
+                  "url": "iir/00000210.jpg"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "8.8 References and further reading",
+              "type": "doc",
+              "docno": "iir-2201",
+              "id": "2201",
+              "bookid": "iir",
+              "title": "8.8 References and further reading",
+              "spage": "210",
+              "epage": "212",
+              "links": [
+                {
+                  "url": "iir/00000210.jpg"
+                },
+                {
+                  "url": "iir/00000211.jpg"
+                },
+                {
+                  "url": "iir/00000212.jpg"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "9 Relevance feedback and query expansion",
+          "type": "doc",
+          "docno": "iir-2202",
+          "id": "2202",
+          "bookid": "iir",
+          "title": "9 Relevance feedback and query expansion",
+          "spage": "214",
+          "epage": "215",
+          "links": [
+            {
+              "url": "iir/00000214.jpg"
+            },
+            {
+              "url": "iir/00000215.jpg"
+            }
+          ],
+          "children": [
+            {
+              "name": "9.1 Relevance feedback and pseudo relevance feedback",
+              "type": "doc",
+              "docno": "iir-2203",
+              "id": "2203",
+              "bookid": "iir",
+              "title": "9.1 Relevance feedback and pseudo relevance feedback",
+              "spage": "215",
+              "epage": "215",
+              "links": [
+                {
+                  "url": "iir/00000215.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "9.1.1 The Rocchio algorithm for relevance feedback",
+                  "type": "doc",
+                  "docno": "iir-2204",
+                  "id": "2204",
+                  "bookid": "iir",
+                  "title": "9.1.1 The Rocchio algorithm for relevance feedback",
+                  "spage": "215",
+                  "epage": "220",
+                  "links": [
+                    {
+                      "url": "iir/00000215.jpg"
+                    },
+                    {
+                      "url": "iir/00000216.jpg"
+                    },
+                    {
+                      "url": "iir/00000217.jpg"
+                    },
+                    {
+                      "url": "iir/00000218.jpg"
+                    },
+                    {
+                      "url": "iir/00000219.jpg"
+                    },
+                    {
+                      "url": "iir/00000220.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "9.1.2 Probabilistic relevance feedback",
+                  "type": "doc",
+                  "docno": "iir-2205",
+                  "id": "2205",
+                  "bookid": "iir",
+                  "title": "9.1.2 Probabilistic relevance feedback",
+                  "spage": "220",
+                  "epage": "220",
+                  "links": [
+                    {
+                      "url": "iir/00000220.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "9.1.3 When does relevance feedback work?",
+                  "type": "doc",
+                  "docno": "iir-2206",
+                  "id": "2206",
+                  "bookid": "iir",
+                  "title": "9.1.3 When does relevance feedback work?",
+                  "spage": "220",
+                  "epage": "222",
+                  "links": [
+                    {
+                      "url": "iir/00000220.jpg"
+                    },
+                    {
+                      "url": "iir/00000221.jpg"
+                    },
+                    {
+                      "url": "iir/00000222.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "9.1.4 Relevance feedback on the web",
+                  "type": "doc",
+                  "docno": "iir-2207",
+                  "id": "2207",
+                  "bookid": "iir",
+                  "title": "9.1.4 Relevance feedback on the web",
+                  "spage": "222",
+                  "epage": "223",
+                  "links": [
+                    {
+                      "url": "iir/00000222.jpg"
+                    },
+                    {
+                      "url": "iir/00000223.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "9.1.5 Evaluation of relevance feedback strategies",
+                  "type": "doc",
+                  "docno": "iir-2208",
+                  "id": "2208",
+                  "bookid": "iir",
+                  "title": "9.1.5 Evaluation of relevance feedback strategies",
+                  "spage": "223",
+                  "epage": "224",
+                  "links": [
+                    {
+                      "url": "iir/00000223.jpg"
+                    },
+                    {
+                      "url": "iir/00000224.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "9.1.6 Pseudo relevance feedback",
+                  "type": "doc",
+                  "docno": "iir-2209",
+                  "id": "2209",
+                  "bookid": "iir",
+                  "title": "9.1.6 Pseudo relevance feedback",
+                  "spage": "224",
+                  "epage": "224",
+                  "links": [
+                    {
+                      "url": "iir/00000224.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "9.1.7 Indirect relevance feedback",
+                  "type": "doc",
+                  "docno": "iir-2210",
+                  "id": "2210",
+                  "bookid": "iir",
+                  "title": "9.1.7 Indirect relevance feedback",
+                  "spage": "224",
+                  "epage": "225",
+                  "links": [
+                    {
+                      "url": "iir/00000224.jpg"
+                    },
+                    {
+                      "url": "iir/00000225.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "9.1.8 Summary",
+                  "type": "doc",
+                  "docno": "iir-2211",
+                  "id": "2211",
+                  "bookid": "iir",
+                  "title": "9.1.8 Summary",
+                  "spage": "225",
+                  "epage": "226",
+                  "links": [
+                    {
+                      "url": "iir/00000225.jpg"
+                    },
+                    {
+                      "url": "iir/00000226.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "9.2 Global methods for query reformulation",
+              "type": "doc",
+              "docno": "iir-2212",
+              "id": "2212",
+              "bookid": "iir",
+              "title": "9.2 Global methods for query reformulation",
+              "spage": "226",
+              "epage": "226",
+              "links": [
+                {
+                  "url": "iir/00000226.jpg"
+                }
+              ],
+              "children": [
+                {
+                  "name": "9.2.1 Vocabulary tools for query reformulation",
+                  "type": "doc",
+                  "docno": "iir-2213",
+                  "id": "2213",
+                  "bookid": "iir",
+                  "title": "9.2.1 Vocabulary tools for query reformulation",
+                  "spage": "226",
+                  "epage": "226",
+                  "links": [
+                    {
+                      "url": "iir/00000226.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "9.2.2 Query expansion",
+                  "type": "doc",
+                  "docno": "iir-2214",
+                  "id": "2214",
+                  "bookid": "iir",
+                  "title": "9.2.2 Query expansion",
+                  "spage": "226",
+                  "epage": "229",
+                  "links": [
+                    {
+                      "url": "iir/00000226.jpg"
+                    },
+                    {
+                      "url": "iir/00000227.jpg"
+                    },
+                    {
+                      "url": "iir/00000228.jpg"
+                    },
+                    {
+                      "url": "iir/00000229.jpg"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "9.2.3 Automatic thesaurus generation",
+                  "type": "doc",
+                  "docno": "iir-2215",
+                  "id": "2215",
+                  "bookid": "iir",
+                  "title": "9.2.3 Automatic thesaurus generation",
+                  "spage": "229",
+                  "epage": "230",
+                  "links": [
+                    {
+                      "url": "iir/00000229.jpg"
+                    },
+                    {
+                      "url": "iir/00000230.jpg"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "9.3 References and further reading",
+              "type": "doc",
+              "docno": "iir-2216",
+              "id": "2216",
+              "bookid": "iir",
+              "title": "9.3 References and further reading",
+              "spage": "230",
+              "epage": "231",
+              "links": [
+                {
+                  "url": "iir/00000230.jpg"
+                },
+                {
+                  "url": "iir/00000231.jpg"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

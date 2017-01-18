@@ -1,0 +1,66 @@
+/**
+ *	Author LY  2013-11-11 22:30
+ **/
+
+ * {
+ 	margin: 0;
+ 	padding: 0;
+ 	font-family: "Microsoft Yahei","Arial"
+ }
+
+ .navigator {
+ 	width: 480px;
+ 	display: block;
+ 	margin-top: 0px;
+ 	margin-left: 0px;
+ 	border-top: 10px solid #ddd;
+ 	border-bottom: 10px solid #ddd;
+ 	border-left: 3px solid #ddd;
+ 	border-right: 3px solid #ddd;
+ 	background: #ddd;
+ }
+ .ntabs {
+ 	list-style: none;
+
+ }
+
+ .ntabs li {
+ 	clear: both;
+ 	overflow: auto;
+ }
+
+ .ntabs li h3 {
+ 	padding: 0;
+ 	margin:0;
+ 	font-size: 10px;
+ 	height: 20px;
+ 	line-height: 20px;
+ 	text-align: center;
+ 	width: 450px;
+ 	cursor: pointer;
+ 	background: #07f;
+ 	color: #fff;
+ 	border-bottom: 1px solid #ccc;
+ }
+ .ntabs li:last-child h3 {
+ 	border:none;
+ }
+ .ntabs li h3.current {
+	background: #6af;
+}
+ .ntabs li ul {
+    margin-left: 0px;
+    margin-right: auto;
+    width: 450px;
+    height: 0px;
+    list-style: none;
+    overflow: hidden;
+ }
+ .ntabs li ul li {
+ 	height: 800px;
+ 	line-height: 30px;
+ 	background: #eee;
+ 	padding: 5px;
+ 	border-bottom: 1px solid #ccc;
+ 	cursor: pointer;
+ }
